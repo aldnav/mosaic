@@ -40,3 +40,8 @@ bin/
 .vscode/
 _dist/
 **/*/*_out.png
+
+# tiles frontend
+tiles-frontend/public/
+tiles-frontend/node_modules/
+tiles-frontend/.cache/
